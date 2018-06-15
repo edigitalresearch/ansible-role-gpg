@@ -1,4 +1,4 @@
-# EDR - GPG Keys Role for Ansible
+# GPG Keys Role for Ansible
 
 This is a role which creates trusted private / public GPG keys
 
